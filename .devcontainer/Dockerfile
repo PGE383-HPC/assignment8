@@ -12,4 +12,4 @@ RUN /home/vscode/.juliaup/bin/julia -e "using Pkg; Pkg.add(\"IJulia\"); Pkg.add(
     mkdir -p $HOME/.julia/config && echo "using Revise;" >> $HOME/.julia/config/startup.jl
 
 USER root
-rm Project.toml Manifest.toml
+RUN rm Project.toml Manifest.toml
