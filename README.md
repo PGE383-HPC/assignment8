@@ -1,6 +1,6 @@
 # Assignment8
 
-![Assignment 8](https://github.com/PGE383-HPC/assignment8-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 8](https://github.com/PGE383-HPC/assignment8/actions/workflows/main.yml/badge.svg)
 
 The purpose of this assignment is to get familiar with the structure of a Julia
 Project, implement a few functions, and run the tests.  
